@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class App2 {
+public class App {
     /**
      * @param args
      * @throws Exception
